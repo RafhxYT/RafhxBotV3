@@ -41,7 +41,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & GAMES-WABOT ]
+[ INSTALLING NODEJS & WaBot ]
 
 ```bash
 ubuntu
