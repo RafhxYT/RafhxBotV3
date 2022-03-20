@@ -21,15 +21,21 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ╠➥ *Uptime:* ${uptime}
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ Gopay: 085713964963
-╠➥ Indosat: 085713964963
+║
+╭─「 Donasi • Premium」
+│ • Gopay/Ovo/Dana : [081779434847]
+╰────
+╭─「 Donasi • Non Premium」
+│ • Saweria : [https://saweria.co/RAFHXYT]
+│ • Qris :[https://bit.ly/QrisRafhx]
+╰────
 ║
 ╠═ Request? ${package.bugs.url}
 ╠═ Official Group *${conn.user.name}* :
 ${(global.linkGC).map((v, i) => '║ *Group ' + (i + 1) + '*\n║' + v).join`\n║\n`}
 ║
 ║${readMore}
-╠═〘 SYARAT & KETENTUAN Games-wabot 〙 ═
+╠═〘 SYARAT & KETENTUAN RafhxBotV3 〙 ═
 ╠➥ *KAMI TIDAK BERTANGGUNG*
 ║   *JAWAB ATAS PENYALAH*
 ║   *GUNAAN BOT*
@@ -42,8 +48,8 @@ ${(global.linkGC).map((v, i) => '║ *Group ' + (i + 1) + '*\n║' + v).join`\n�
 ║ 
 ║ 
 ╠═ ©2021 ${package.name}
-╠═ Script original by Nurutomo
-╠═〘 METRO BOT 〙 ═
+╠═ Script original by Nurutomo Edited by rafhx
+╠═〘 RafhxBotV3 〙 ═
 `.trim(), m)
 }
 handler.help = ['info']
