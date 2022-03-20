@@ -9,11 +9,20 @@
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-### FOR TERMUX USER
+---------
+
+## FOR TERMUX/UBUNTU/SSH USER
+
 ```bash
-pkg update && pkg upgrade
-pkg install bash && pkg install wget
-wget -O - https://raw.githubusercontent.com/BochilGaming/games-wabot/main/install2.sh | bash
+apt update && apt upgrade
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
+apt install imagemagick -y
+git clone https://github.com/RafhxYT/RafhxBotV3.git
+cd RafhxBotV3
+npm install
+npm update
 ```
 
 ---------
