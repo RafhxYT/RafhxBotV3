@@ -1,4 +1,4 @@
-# RafhxBotV3/WaBot
+# RafhxBotV3
 
 #### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RafhxYT/RafhxBotV3)
@@ -183,6 +183,3 @@ Presence avaible: available, composing, recording, paused
 **Orang Tua**,
 
 **Semua yang selalu mendukung**
-#� �R�a�f�h�x�B�o�t�V�3�
-�
-�
