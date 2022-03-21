@@ -2,15 +2,15 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Gup2iPdhIKx5Wo9Q7bVUN8']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '62857139649630': { // put your number here
+  '6281779434847': { // put your number here
     name: 'Owner RafhxBotV3/Creator RafhxBotv3',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '13479805233': {} // ignore if you don't want anything, like name dll
+  '6281779434847': {} // ignore if you don't want anything, like name dll
 }
-global.mods = ['13479805233'] // Want some help?
+global.mods = ['6281779434847'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
